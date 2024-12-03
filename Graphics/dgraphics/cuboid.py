@@ -1,5 +1,5 @@
 def areacub(l,b,h):
-    a= 2*((l*b) + (b*h) + (h*1))
+    a= 2*((l*b) + (b*h) + (h*l))
     print("Area of Cuboid:",a)
 
 
